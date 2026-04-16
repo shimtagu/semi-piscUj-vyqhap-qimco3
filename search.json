@@ -128,5 +128,135 @@
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>ゲスト・訪問視察</span>"
     ]
+  },
+  {
+    "objectID": "email.html",
+    "href": "email.html",
+    "title": "メールの書き方",
+    "section": "",
+    "text": "メールの基本構成\n大学生活においてメールは、教員や学務課との連絡、課題に関する質問、ゼミ活動の調整など、さまざまな場面で日常的に使用する重要なコミュニケーション手段です。\nしかし実際には、メールと、Lineなどの携帯端末向けのメッセージツールの使い方を十分に区別できていない学生が多いです。これらは目的や前提が異なり、同じ感覚で使うと、相手に失礼な印象を与えたり、要件が正確に伝わらなかったりする可能性があります。\nメールは、記録として残る正式な文書であり、相手に配慮しながら、簡潔かつ明確に要件を伝えることが求められます。したがって、適切な形式や表現を身につけることが重要です。\nまた、正しいメールの書き方は、大学内に限らず、就職活動や社会人としての業務においても不可欠な基礎的スキルです。メールの印象は、そのまま書き手の印象として受け取られることも少なくありません。\n本資料およびゼミでの活動を通して、基本的なルールを理解し、実践的なメール作成能力を身につけてください。ここで学んだ内容は、今後の学業やキャリアにおいて確実に役立ちます。\nメールは以下の構成で書く。",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
+  },
+  {
+    "objectID": "email.html#メールの基本構成",
+    "href": "email.html#メールの基本構成",
+    "title": "メールの書き方",
+    "section": "",
+    "text": "件名\n\n宛名 （← これがないメールが圧倒的に多い、、、。）\n挨拶・名乗り\n\n本文（要件）\n\n結び\n\n署名",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
+  },
+  {
+    "objectID": "email.html#件名の書き方",
+    "href": "email.html#件名の書き方",
+    "title": "メールの書き方",
+    "section": "件名の書き方",
+    "text": "件名の書き方\n件名は内容が一目で分かることが重要。\n悪い例\n\n質問\n\nお世話になっております\n\n良い例\n\n【ゼミ】発表日程についての質問（田中）\n\n【授業名】課題提出に関する確認\n\nポイント\n\n【】で用件を整理する\n\n具体的に書く\n\n長すぎない",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
+  },
+  {
+    "objectID": "email.html#宛名",
+    "href": "email.html#宛名",
+    "title": "メールの書き方",
+    "section": "宛名",
+    "text": "宛名\n基本形\n\n○○先生\n\n○○株式会社 ○○様\n\n注意点\n\n名前の誤字は厳禁\n\n「様」と「先生」を混同しない",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
+  },
+  {
+    "objectID": "email.html#挨拶名乗り",
+    "href": "email.html#挨拶名乗り",
+    "title": "メールの書き方",
+    "section": "挨拶・名乗り",
+    "text": "挨拶・名乗り\n初めに自分が誰かを伝える。\n例\nお世話になっております。\n○○大学○○学部の田中太郎です。\nポイント\n\n初対面なら簡単な説明を追加する\n\n誰からのメールか一目で分かるようにする",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
+  },
+  {
+    "objectID": "email.html#本文要件",
+    "href": "email.html#本文要件",
+    "title": "メールの書き方",
+    "section": "本文（要件）",
+    "text": "本文（要件）\n結論から書く。\n悪い例\n\nいろいろ考えているのですが…\n\n良い例\n\n本日は、ゼミの発表日程についてご相談があり、ご連絡いたしました。\n\n構成\n\n目的（なぜメールしたか）\n\n詳細\n\n必要なアクション（返信・確認など）\n\nポイント\n\n1文を短くする\n\n箇条書きを活用する\n\n曖昧な表現を避ける",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
+  },
+  {
+    "objectID": "email.html#結び",
+    "href": "email.html#結び",
+    "title": "メールの書き方",
+    "section": "結び",
+    "text": "結び\n相手への配慮を示す。\n例\nお忙しいところ恐縮ですが、ご確認のほどよろしくお願いいたします。",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
+  },
+  {
+    "objectID": "email.html#署名",
+    "href": "email.html#署名",
+    "title": "メールの書き方",
+    "section": "署名",
+    "text": "署名\n最低限以下を入れる。\n\n名前\n\n所属\n\n連絡先（必要に応じて）\n\n例\n\n田中太郎\n\n○○大学○○学部",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
+  },
+  {
+    "objectID": "email.html#完成例",
+    "href": "email.html#完成例",
+    "title": "メールの書き方",
+    "section": "完成例",
+    "text": "完成例\nお世話になっております。\n○○大学○○学部の田中太郎です。\n本日は、ゼミの発表日程についてご相談があり、ご連絡いたしました。\n現在提示されている日程のうち、○月○日は都合がつかず、\n別日程での発表が可能かご相談させていただければ幸いです。\nお忙しいところ恐縮ですが、ご確認のほどよろしくお願いいたします。\n田中太郎\n○○大学○○学部",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
+  },
+  {
+    "objectID": "email.html#よくあるミス",
+    "href": "email.html#よくあるミス",
+    "title": "メールの書き方",
+    "section": "よくあるミス",
+    "text": "よくあるミス\n\n件名が分かりにくい\n\n宛名がない\n名乗りがない\n\n結論が最後に来る\n\n敬語が不自然\n\n長すぎる",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
+  },
+  {
+    "objectID": "email.html#ワンポイントアドバイス",
+    "href": "email.html#ワンポイントアドバイス",
+    "title": "メールの書き方",
+    "section": "ワンポイントアドバイス",
+    "text": "ワンポイントアドバイス\n\n読みやすさを最優先にする\n\n相手は忙しい前提で書く\n\n送信前に必ず見直す",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
+  },
+  {
+    "objectID": "email.html#ng例と改善例",
+    "href": "email.html#ng例と改善例",
+    "title": "メールの書き方",
+    "section": "NG例と改善例",
+    "text": "NG例と改善例\n\nケース 1：　件名が不適切\nNG例\n件名：質問\nお世話になっております。\n田中です。\nレポートについて質問があります。\nよろしくお願いします。\n改善例\n件名：【経済学】レポート提出方法に関する質問（田中）\nお世話になっております。\n○○大学○○学部の田中太郎です。\nレポートの提出方法について確認させていただきたく、ご連絡いたしました。\n提出はオンラインのみでよろしいでしょうか。\nお忙しいところ恐縮ですが、ご確認のほどよろしくお願いいたします。\n\n\nケース 2：　名乗りが不十分\nNG例\nお世話になっております。\n課題について質問です。\n改善例\nお世話になっております。\n○○大学○○学部の田中太郎です。\n課題について質問があり、ご連絡いたしました。\n\n\nケース 3：　結論が遅い\nNG例\nお世話になっております。\n田中です。\n現在いろいろと考えているのですが、日程の調整が難しく、\nどうすればよいか悩んでおります。\n改善例\nお世話になっております。\n○○大学○○学部の田中太郎です。\nゼミの発表日程についてご相談があり、ご連絡いたしました。\n\n\nケース 4：　要件が不明確\nNG例\nお世話になっております。\n田中です。\n課題について確認したいことがあります。\n改善例\nお世話になっております。\n○○大学○○学部の田中太郎です。\n課題の提出期限について確認させてください。\n提出期限は○月○日で間違いないでしょうか。\n\n\nケース 5：　結びが不適切\nNG例\nよろしくです。\n改善例\nお忙しいところ恐縮ですが、ご確認のほどよろしくお願いいたします。",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
+  },
+  {
+    "objectID": "email.html#評価ルーブリック",
+    "href": "email.html#評価ルーブリック",
+    "title": "メールの書き方",
+    "section": "評価ルーブリック",
+    "text": "評価ルーブリック\n\n評価観点\n以下の観点で評価する。\n\n件名\n\n宛名と名乗り\n\n本文の構成\n\n分かりやすさ\n\n丁寧さ\n\n\n\n評価基準\n4点\n\n件名が具体的で分かりやすい\n\n名乗りが明確\n\n結論が最初に書かれている\n\n要件が具体的で誤解がない\n\n丁寧で適切な表現\n\n3点\n\n概ね適切だが一部不十分\n\n件名または本文にやや曖昧さがある\n\n2点\n\n不明確な部分が多い\n\n結論が分かりにくい\n\n情報が不足している\n\n1点\n\n構成が不十分\n\n要件が伝わらない\n\n不適切な表現が多い",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>メールの書き方</span>"
+    ]
   }
 ]
